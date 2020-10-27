@@ -1,0 +1,4 @@
+noticed that percip1 has no effect on probabilithy
+average temp had a large effect may have been due to unexpected data
+High temp had large impact
+

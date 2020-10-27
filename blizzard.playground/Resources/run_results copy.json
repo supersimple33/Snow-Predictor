@@ -1,0 +1,646 @@
+{
+ "months": [
+  {
+   "days": [
+    {
+     "highTemp": "16",
+     "avgTemp": "10",
+     "lowTemp": "5",
+     "windSpeed": "21",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "23",
+     "avgTemp": "16",
+     "lowTemp": "9",
+     "windSpeed": "20",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "25",
+     "avgTemp": "17",
+     "lowTemp": "9",
+     "windSpeed": "9",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "25",
+     "avgTemp": "22",
+     "lowTemp": "17",
+     "windSpeed": "40",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "16",
+     "avgTemp": "12",
+     "lowTemp": "7",
+     "windSpeed": "33",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "10",
+     "avgTemp": "8",
+     "lowTemp": "5",
+     "windSpeed": "37",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "16",
+     "avgTemp": "8",
+     "lowTemp": "0",
+     "windSpeed": "17",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "28",
+     "avgTemp": "22",
+     "lowTemp": "16",
+     "windSpeed": "9",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "41",
+     "avgTemp": "34",
+     "lowTemp": "27",
+     "windSpeed": "25",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "28",
+     "lowTemp": "18",
+     "windSpeed": "8",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "48",
+     "avgTemp": "39",
+     "lowTemp": "30",
+     "windSpeed": "6",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "55",
+     "avgTemp": "48",
+     "lowTemp": "41",
+     "windSpeed": "18",
+     "percipitation": "0.65"
+    },
+    {
+     "highTemp": "55",
+     "avgTemp": "36",
+     "lowTemp": "16",
+     "windSpeed": "29",
+     "percipitation": "0.17"
+    },
+    {
+     "highTemp": "21",
+     "avgTemp": "16",
+     "lowTemp": "10",
+     "windSpeed": "20",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "27",
+     "avgTemp": "20",
+     "lowTemp": "12",
+     "windSpeed": "9",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "34",
+     "avgTemp": "26",
+     "lowTemp": "19",
+     "windSpeed": "7",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "35",
+     "avgTemp": "29",
+     "lowTemp": "21",
+     "windSpeed": "18",
+     "percipitation": "0.13"
+    },
+    {
+     "highTemp": "28",
+     "avgTemp": "22",
+     "lowTemp": "15",
+     "windSpeed": "17",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "34",
+     "avgTemp": "26",
+     "lowTemp": "17",
+     "windSpeed": "8",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "46",
+     "avgTemp": "39",
+     "lowTemp": "30",
+     "windSpeed": "17",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "46",
+     "avgTemp": "36",
+     "lowTemp": "27",
+     "windSpeed": "9",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "46",
+     "avgTemp": "42",
+     "lowTemp": "37",
+     "windSpeed": "14",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "55",
+     "avgTemp": "47",
+     "lowTemp": "39",
+     "windSpeed": "17",
+     "percipitation": "0.28"
+    },
+    {
+     "highTemp": "41",
+     "avgTemp": "33",
+     "lowTemp": "24",
+     "windSpeed": "23",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "32",
+     "avgTemp": "26",
+     "lowTemp": "21",
+     "windSpeed": "17",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "27",
+     "lowTemp": "17",
+     "windSpeed": "8",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "52",
+     "avgTemp": "38",
+     "lowTemp": "25",
+     "windSpeed": "13",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "52",
+     "avgTemp": "46",
+     "lowTemp": "39",
+     "windSpeed": "8",
+     "percipitation": "0.18"
+    },
+    {
+     "highTemp": "43",
+     "avgTemp": "38",
+     "lowTemp": "32",
+     "windSpeed": "14",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "34",
+     "avgTemp": "28",
+     "lowTemp": "21",
+     "windSpeed": "23",
+     "percipitation": "0.04"
+    },
+    {
+     "highTemp": "30",
+     "avgTemp": "24",
+     "lowTemp": "17",
+     "windSpeed": "16",
+     "percipitation": "0"
+    }
+   ]
+  },
+  {
+   "days": [
+    {
+     "highTemp": "42",
+     "avgTemp": "35",
+     "lowTemp": "28",
+     "windSpeed": "7",
+     "percipitation": "0.05"
+    },
+    {
+     "highTemp": "35",
+     "avgTemp": "24",
+     "lowTemp": "12",
+     "windSpeed": "30",
+     "percipitation": "0.14"
+    },
+    {
+     "highTemp": "28",
+     "avgTemp": "20",
+     "lowTemp": "12",
+     "windSpeed": "15",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "43",
+     "avgTemp": "36",
+     "lowTemp": "28",
+     "windSpeed": "14",
+     "percipitation": "0.98"
+    },
+    {
+     "highTemp": "39",
+     "avgTemp": "30",
+     "lowTemp": "21",
+     "windSpeed": "32",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "34",
+     "avgTemp": "28",
+     "lowTemp": "21",
+     "windSpeed": "7",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "39",
+     "avgTemp": "32",
+     "lowTemp": "25",
+     "windSpeed": "24",
+     "percipitation": "0.6"
+    },
+    {
+     "highTemp": "30",
+     "avgTemp": "26",
+     "lowTemp": "21",
+     "windSpeed": "23",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "33",
+     "avgTemp": "26",
+     "lowTemp": "18",
+     "windSpeed": "9",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "46",
+     "avgTemp": "39",
+     "lowTemp": "32",
+     "windSpeed": "6",
+     "percipitation": "0.49"
+    },
+    {
+     "highTemp": "53",
+     "avgTemp": "47",
+     "lowTemp": "41",
+     "windSpeed": "10",
+     "percipitation": "0.92"
+    },
+    {
+     "highTemp": "57",
+     "avgTemp": "42",
+     "lowTemp": "28",
+     "windSpeed": "21",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "33",
+     "avgTemp": "27",
+     "lowTemp": "21",
+     "windSpeed": "14",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "50",
+     "avgTemp": "40",
+     "lowTemp": "30",
+     "windSpeed": "8",
+     "percipitation": "0.02"
+    },
+    {
+     "highTemp": "55",
+     "avgTemp": "48",
+     "lowTemp": "42",
+     "windSpeed": "6",
+     "percipitation": "0.13"
+    },
+    {
+     "highTemp": "55",
+     "avgTemp": "45",
+     "lowTemp": "33",
+     "windSpeed": "24",
+     "percipitation": "0.16"
+    },
+    {
+     "highTemp": "35",
+     "avgTemp": "29",
+     "lowTemp": "23",
+     "windSpeed": "13",
+     "percipitation": "0.61"
+    },
+    {
+     "highTemp": "42",
+     "avgTemp": "34",
+     "lowTemp": "27",
+     "windSpeed": "21",
+     "percipitation": "0.02"
+    },
+    {
+     "highTemp": "45",
+     "avgTemp": "36",
+     "lowTemp": "26",
+     "windSpeed": "14",
+     "percipitation": "0.05"
+    },
+    {
+     "highTemp": "64",
+     "avgTemp": "52",
+     "lowTemp": "41",
+     "windSpeed": "9",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "77",
+     "avgTemp": "62",
+     "lowTemp": "46",
+     "windSpeed": "22",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "53",
+     "avgTemp": "44",
+     "lowTemp": "34",
+     "windSpeed": "14",
+     "percipitation": "0.23"
+    },
+    {
+     "highTemp": "39",
+     "avgTemp": "35",
+     "lowTemp": "33",
+     "windSpeed": "10",
+     "percipitation": "0.12"
+    },
+    {
+     "highTemp": "53",
+     "avgTemp": "46",
+     "lowTemp": "39",
+     "windSpeed": "10",
+     "percipitation": "0.08"
+    },
+    {
+     "highTemp": "42",
+     "avgTemp": "40",
+     "lowTemp": "37",
+     "windSpeed": "20",
+     "percipitation": "0.63"
+    },
+    {
+     "highTemp": "48",
+     "avgTemp": "42",
+     "lowTemp": "37",
+     "windSpeed": "14",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "54",
+     "avgTemp": "42",
+     "lowTemp": "30",
+     "windSpeed": "12",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "57",
+     "avgTemp": "46",
+     "lowTemp": "35",
+     "windSpeed": "12",
+     "percipitation": "0"
+    }
+   ]
+  },
+  {
+   "days": [
+    {
+     "highTemp": "57",
+     "avgTemp": "48",
+     "lowTemp": "39",
+     "windSpeed": "17",
+     "percipitation": "0.21"
+    },
+    {
+     "highTemp": "43",
+     "avgTemp": "38",
+     "lowTemp": "33",
+     "windSpeed": "46",
+     "percipitation": "1.76"
+    },
+    {
+     "highTemp": "44",
+     "avgTemp": "40",
+     "lowTemp": "35",
+     "windSpeed": "40",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "41",
+     "avgTemp": "36",
+     "lowTemp": "32",
+     "windSpeed": "23",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "34",
+     "lowTemp": "30",
+     "windSpeed": "22",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "44",
+     "avgTemp": "36",
+     "lowTemp": "27",
+     "windSpeed": "13",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "34",
+     "avgTemp": "33",
+     "lowTemp": "32",
+     "windSpeed": "24",
+     "percipitation": "0.33"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "34",
+     "lowTemp": "30",
+     "windSpeed": "17",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "39",
+     "avgTemp": "33",
+     "lowTemp": "27",
+     "windSpeed": "17",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "34",
+     "lowTemp": "30",
+     "windSpeed": "23",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "42",
+     "avgTemp": "35",
+     "lowTemp": "28",
+     "windSpeed": "13",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "41",
+     "avgTemp": "34",
+     "lowTemp": "28",
+     "windSpeed": "14",
+     "percipitation": "0.01"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "34",
+     "lowTemp": "32",
+     "windSpeed": "29",
+     "percipitation": "0.01"
+    },
+    {
+     "highTemp": "39",
+     "avgTemp": "32",
+     "lowTemp": "28",
+     "windSpeed": "20",
+     "percipitation": "0.01"
+    },
+    {
+     "highTemp": "45",
+     "avgTemp": "37",
+     "lowTemp": "30",
+     "windSpeed": "23",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "32",
+     "lowTemp": "28",
+     "windSpeed": "30",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "45",
+     "avgTemp": "35",
+     "lowTemp": "25",
+     "windSpeed": "24",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "41",
+     "avgTemp": "31",
+     "lowTemp": "23",
+     "windSpeed": "20",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "43",
+     "avgTemp": "34",
+     "lowTemp": "26",
+     "windSpeed": "20",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "32",
+     "lowTemp": "26",
+     "windSpeed": "12",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "37",
+     "avgTemp": "34",
+     "lowTemp": "30",
+     "windSpeed": "16",
+     "percipitation": "0.17"
+    },
+    {
+     "highTemp": "48",
+     "avgTemp": "39",
+     "lowTemp": "30",
+     "windSpeed": "25",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "48",
+     "avgTemp": "40",
+     "lowTemp": "33",
+     "windSpeed": "14",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "48",
+     "avgTemp": "40",
+     "lowTemp": "33",
+     "windSpeed": "16",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "43",
+     "avgTemp": "36",
+     "lowTemp": "30",
+     "windSpeed": "14",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "45",
+     "avgTemp": "36",
+     "lowTemp": "27",
+     "windSpeed": "13",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "44",
+     "avgTemp": "34",
+     "lowTemp": "26",
+     "windSpeed": "10",
+     "percipitation": "0"
+    },
+    {
+     "highTemp": "52",
+     "avgTemp": "44",
+     "lowTemp": "36",
+     "windSpeed": "8",
+     "percipitation": "0.01"
+    },
+    {
+     "highTemp": "48",
+     "avgTemp": "46",
+     "lowTemp": "45",
+     "windSpeed": "9",
+     "percipitation": "0.01"
+    },
+    {
+     "highTemp": "57",
+     "avgTemp": "48",
+     "lowTemp": "41",
+     "windSpeed": "17",
+     "percipitation": "0.03"
+    },
+    {
+     "highTemp": "55",
+     "avgTemp": "45",
+     "lowTemp": "36",
+     "windSpeed": "16",
+     "percipitation": "0"
+    }
+   ]
+  }
+ ]
+}
