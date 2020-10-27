@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:WU_3.phj">
+   </FileRef>
+   <FileRef
       location = "group:snowCalcButItsCommandLine/snowCalcButItsCommandLine.xcodeproj">
    </FileRef>
    <FileRef
