@@ -1,0 +1,10 @@
+First Revison Notes:
+Boosted tree seemed to be the models favored choice
+I only use 10 iterations for selecting the model allowing more may increase accuracy
+25% evaluates at around 89
+50% of data use evaluated at around 93% accuracy
+80% evaluates at 90.91 but only tests on 1 class
+75% evaluates at 94 and tests on two classes
+>90% always evaluates to 100
+
+
