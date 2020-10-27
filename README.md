@@ -1,0 +1,4 @@
+# Snow-Predictor
+This project highlights attempts to create a Neural Network using CreateML to predict the outcome whether there would be a snow day.
+## Building the dataset
+In order to get the data in the first iteration I used ParseHub. I used their interface to create a program which would download all relevant weather data into a json document. Data was parsed from [wunderground.com](https://www.wunderground.com/history) airport weather data. Airports were chosen for their accurate and timely meterology data. The avgerage temperature, date, high temp, low temp, percipitation, day of the week and windspeed were recorded for each datapoint for three days. I had another set which collected the same points hourly instead of daily. *Looking back I should have used a csv to save memory and could have used Selenium in python to deploy on my laptop instead.*
