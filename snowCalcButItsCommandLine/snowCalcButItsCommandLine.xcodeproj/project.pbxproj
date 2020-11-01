@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		FE0D71802211F951006116D7 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE0D717F2211F951006116D7 /* main.swift */; };
 		FE0D71872211F9E9006116D7 /* blizzard1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = FE0D71862211F9E9006116D7 /* blizzard1.mlmodel */; };
-		FE2A66F72244527F00849F77 /* Alphanum_28x28.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = FE2A66F62244527F00849F77 /* Alphanum_28x28.mlmodel */; };
 		FE7999392241D90100CE4B7B /* blizzard2.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = FE7999382241D90100CE4B7B /* blizzard2.mlmodel */; };
 /* End PBXBuildFile section */
 
@@ -29,7 +28,6 @@
 		FE0D717C2211F951006116D7 /* snowCalcButItsCommandLine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = snowCalcButItsCommandLine; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE0D717F2211F951006116D7 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FE0D71862211F9E9006116D7 /* blizzard1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = blizzard1.mlmodel; sourceTree = "<group>"; };
-		FE2A66F62244527F00849F77 /* Alphanum_28x28.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Alphanum_28x28.mlmodel; sourceTree = "<group>"; };
 		FE7999382241D90100CE4B7B /* blizzard2.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = blizzard2.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,7 +64,6 @@
 				FE0D717F2211F951006116D7 /* main.swift */,
 				FE0D71862211F9E9006116D7 /* blizzard1.mlmodel */,
 				FE7999382241D90100CE4B7B /* blizzard2.mlmodel */,
-				FE2A66F62244527F00849F77 /* Alphanum_28x28.mlmodel */,
 			);
 			path = snowCalcButItsCommandLine;
 			sourceTree = "<group>";
@@ -131,7 +128,6 @@
 				FE0D71872211F9E9006116D7 /* blizzard1.mlmodel in Sources */,
 				FE0D71802211F951006116D7 /* main.swift in Sources */,
 				FE7999392241D90100CE4B7B /* blizzard2.mlmodel in Sources */,
-				FE2A66F72244527F00849F77 /* Alphanum_28x28.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
